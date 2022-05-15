@@ -11,7 +11,8 @@ chmod 777 bysql.py
 <br>
 python3 bysql.py
 <br>
-**ขอให้สนุก เพื่อการศึกษาเท่านั้น 
+**ขอให้สนุก เพื่อการศึกษาเท่านั้น**
 <br>
-**Have fun. For education only
-** SomeOneWannaHackYou Copyright 2022.
+**Have fun. For education only**
+<br>
+** SomeOneWannaHackYou Copyright 2022.**
