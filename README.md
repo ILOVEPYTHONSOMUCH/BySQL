@@ -14,3 +14,4 @@ python3 bysql.py
 **ขอให้สนุก เพื่อการศึกษาเท่านั้น 
 <br>
 **Have fun. For education only
+** SomeOneWannaHackYou Copyright 2022.
