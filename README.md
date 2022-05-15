@@ -12,3 +12,4 @@ chmod 777 bysql.py
 python3 bysql.py
 <br>
 **ขอให้สนุก เพื่อการศึกษาเท่านั้น 
+**For education only
