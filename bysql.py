@@ -104,7 +104,12 @@ def _main():
             print(f"{yellow}No found wordlist use -w for use your wordlist.")
             exit()
         else:
+            print(e)
             info()
             exit()
 if __name__ == '__main__':
-   _main()
+    try:
+     _main()
+    except KeyboardInterrupt:
+        print(f"\n{yellow}Interrupt !!!")
+        exit()
