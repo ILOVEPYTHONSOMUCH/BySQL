@@ -1,6 +1,6 @@
 # BySQL
-โปรแกรมทดสอบช่องโหว่ SQL injection bypass (the program for sql injection bypass hacking)
-การติดตั้ง (install)
+โปรแกรมทดสอบช่องโหว่ SQL injection bypass (the program for sql injection bypass hacking)\n
+การติดตั้ง (install)\n
 git clone https://github.com/ILOVEPYTHONSOMUCH/BySQL/
 cd BySQL
 chmod 777 bysql.py
